@@ -27,9 +27,8 @@ privacySet = ['0','1','2']
 def main():
     global globalLogin
     global globalEmail
-    global globalPassword
-
-    print '                       \n \n \n \n \n \n          '
+    global globalpassword
+    print ' \n \n \n \n \n \n     '
     print '                    ______ ____  _    _ _______   '
     print '                   |  ____|  _ \| |  | |__   __|  '
     print '                   | |__  | |_) | |__| |  | |     '
